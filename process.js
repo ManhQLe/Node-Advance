@@ -9,4 +9,4 @@ process.on('uncaughtException',(e)=>{
 
 process.stdin.resume();
 
-console.dog();
+console.log();
